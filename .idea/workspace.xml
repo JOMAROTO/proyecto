@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a1921a1-2e70-4bb5-bc56-5f68cac37b76" name="Changes" comment="Added main classes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/modelo/Moderador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/modelo/EstadoNegocio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/modelo/EstadoNegocio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/modelo/Horario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/modelo/Horario.java" afterDir="false" />
+    <list default="true" id="0a1921a1-2e70-4bb5-bc56-5f68cac37b76" name="Changes" comment="Added attributes and created repo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/edu/uniquindio/proyecto/repositorios/ClienteRepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -68,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709216196764</updated>
-      <workItem from="1709216198502" duration="3918000" />
+      <workItem from="1709216198502" duration="4137000" />
     </task>
     <task id="LOCAL-00001" summary="innitial commit">
       <created>1709217022565</created>
@@ -84,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709219704856</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added attributes and created repo">
+      <created>1709220263905</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709220263905</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,6 +109,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="innitial commit" />
     <MESSAGE value="Added main classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added main classes" />
+    <MESSAGE value="Added attributes and created repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added attributes and created repo" />
   </component>
 </project>
